@@ -1,0 +1,2 @@
+source D:/ESP_files/DEMO1_GPIO/build/bootloader/gdbinit/symbols
+source D:/ESP_files/DEMO1_GPIO/build/bootloader/gdbinit/connect

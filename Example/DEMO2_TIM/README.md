@@ -1,0 +1,6 @@
+# 例程: gptimer
+
+本例程演示了如何使用定时器中断来触发GPIO18电平翻转，其中通过gptimer_new_timer和gptimer_set_alarm_action函数配置定时器各项参数及中断条件，通过gptimer_register_event_callbacks函数绑定回调函数。
+
+## 实验现象
+GPIO18的电平以每秒一次的速率翻转。

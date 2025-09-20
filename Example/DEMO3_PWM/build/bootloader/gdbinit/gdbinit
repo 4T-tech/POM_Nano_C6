@@ -1,0 +1,2 @@
+source D:/ESP_files/DEMO3_PWM/build/bootloader/gdbinit/symbols
+source D:/ESP_files/DEMO3_PWM/build/bootloader/gdbinit/connect
